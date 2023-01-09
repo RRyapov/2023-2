@@ -1,2 +1,3 @@
+ - [feature][2] - УДаление ветки `master`
  - [feature][2] - Добавление ветки `master`
  - [feature][1] - Добавление html-файла
